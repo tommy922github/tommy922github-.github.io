@@ -35,3 +35,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<div style="left:0px; width:100%; height:0px; position:relative; padding-bottom:75%; ">
+<iframe src=" https://github.com/tommy922github/tommy922github-.github.io/blob/master/untitled_VR.16/instructions.html " frameborder="0" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" style="top: 0px; left: 0px; width: 100%; height: 100%; position: absolute;" ></iframe>
+</div>
